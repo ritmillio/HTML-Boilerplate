@@ -19,7 +19,7 @@ fast, robust, and adaptable web apps with TailwindCSS
 * vBoilerplate is using Vite : (https://vitejs.dev/)
     * This version of vBoilerplate using Vanilla JS
     * Instant Server Start - npm run dev
-    * Lightning Fast HMR
+    * Lightning Fast Hot Module
 
 ## Browser support
 
