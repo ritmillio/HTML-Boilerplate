@@ -10,6 +10,8 @@ fast, robust, and adaptable web apps with TailwindCSS
   https://github.com/ritmillio/vBoilerplate.git` -
   or `git clone
   https://github.com/ritmillio/vBoilerplate.git appName`
+* open Terminal - npm i
+* To start Dev environment - npm run dev
 
 ## Features
 
