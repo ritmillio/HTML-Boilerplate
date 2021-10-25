@@ -2,7 +2,7 @@
 # [vBoilerplate]
 
 vBoilerplate is a professional front-end template for building
-fast, robust, and adaptable web apps with TailwindCSS
+fast, robust, and adaptable web apps with HTML5, TailwindCSS, ScrollReveal.js, Font Awesome. 
 
 ## Quick start
 
